@@ -64,7 +64,3 @@ function clamp(cur, min, max, callback) {
 
     return cur;
 }
-
-// function lerp(a, b, t) {
-//     return a * t + b * (1 - t)
-// }
